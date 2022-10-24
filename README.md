@@ -4,3 +4,4 @@ It is developed by IntelliJ IDEA Community Edition 2021.3.2, java version is 17.
 To start the game, in the out/artifacts/MyPlane_jar2 folder, click MyPlane.jar file.
 Use the up, down, left and right keys on the keyboard to control movement of the hero plane.
 Use the space on the keyboard to control fire bullet of the hero plane.
+If you have any questiones or need resources, please contact me : jwang302ATsyrDOTedu
